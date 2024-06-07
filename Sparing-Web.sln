@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparing-Web", "Sparing-Web\Sparing-Web.csproj", "{9A51786B-469B-427A-B8CF-8EC7E63687BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A51786B-469B-427A-B8CF-8EC7E63687BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A51786B-469B-427A-B8CF-8EC7E63687BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A51786B-469B-427A-B8CF-8EC7E63687BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A51786B-469B-427A-B8CF-8EC7E63687BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E110346B-6C8A-4628-A1A0-A1F66A3F2D77}
+	EndGlobalSection
+EndGlobal
